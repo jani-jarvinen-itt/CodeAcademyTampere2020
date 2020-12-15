@@ -1,0 +1,9 @@
+DotNet/ArvaaLuku/bin/**
+DotNet/ArvaaLuku/obj/**
+DotNet/HelloWorld/bin/**
+DotNet/HelloWorld/obj/**
+DotNet/Laskin/bin/**
+DotNet/Laskin/obj/**
+DotNet/ArvaaLuku/.vscode/**
+DotNet/HellWorld/.vscode/**
+DotNet/Laskin/.vscode/**
