@@ -23,6 +23,11 @@ namespace OlioOhjelmointi
                 Huippunopeus = 190
             };
             naapurin.Käynnistä();
+
+
+            Urheiluauto avo = new Urheiluauto() {
+                KattoAlhaalla = true
+            };
         }
     }
 }
