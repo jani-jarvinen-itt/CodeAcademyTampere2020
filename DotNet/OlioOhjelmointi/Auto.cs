@@ -8,7 +8,7 @@ namespace OlioOhjelmointi
 
         public string Malli { get; set; }
 
-        public string Huippunopeus { get; set; }
+        public int Huippunopeus { get; set; }
 
         public string Väri { get; set; }
 
@@ -18,18 +18,30 @@ namespace OlioOhjelmointi
 
         public void Käynnistä()
         {
+            MoottoriKäynnissä = true;
         }
 
         public void Sammuta()
         {
+            MoottoriKäynnissä = false;
         }
 
         public void Kiihdytä()
         {
+            Nopeus += 5; // Nopeus = Nopeus + 5;
+
+            if (Nopeus > Huippunopeus) {
+                Nopeus = Huippunopeus;
+            }
         }
 
         public void Jarruta()
         {
+            Nopeus -= 5;
+            
+            if (Nopeus < 0) {
+                Nopeus = 0;
+            }
         }
     }
 }
