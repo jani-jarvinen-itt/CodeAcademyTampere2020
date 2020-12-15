@@ -19,6 +19,9 @@ namespace OlioOhjelmointi
         public void Käynnistä()
         {
             MoottoriKäynnissä = true;
+
+            Console.WriteLine($"Auto {Merkki} {Malli} on käynnissä.");
+            // Console.WriteLine("Auto " + Merkki + " " + Malli + " on käynnissä.");
         }
 
         public void Sammuta()
@@ -30,7 +33,8 @@ namespace OlioOhjelmointi
         {
             Nopeus += 5; // Nopeus = Nopeus + 5;
 
-            if (Nopeus > Huippunopeus) {
+            if (Nopeus > Huippunopeus)
+            {
                 Nopeus = Huippunopeus;
             }
         }
@@ -38,8 +42,9 @@ namespace OlioOhjelmointi
         public void Jarruta()
         {
             Nopeus -= 5;
-            
-            if (Nopeus < 0) {
+
+            if (Nopeus < 0)
+            {
                 Nopeus = 0;
             }
         }
