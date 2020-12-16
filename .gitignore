@@ -13,3 +13,7 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/TiedostonLuku/.vs/TiedostonLuku/v16
 /DotNet/TiedostonLuku/TiedostonLuku/bin/Debug
 /DotNet/TiedostonLuku/TiedostonLuku/obj
+/DotNet/HttpSäätiedot/.vs/HttpSäätiedot/v16
+/DotNet/HttpSäätiedot/HttpSäätiedot/bin/Debug/netcoreapp3.1
+/DotNet/HttpSäätiedot/HttpSäätiedot/obj
+/DotNet/TiedostonLuku/.vs/TiedostonLuku/DesignTimeBuild
