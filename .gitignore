@@ -10,3 +10,6 @@ DotNet/Laskin/.vscode/**
 DotNet/OlioOhjelmointi/bin/**
 DotNet/OlioOhjelmointi/obj/**
 DotNet/OlioOhjelmointi/.vscode/**
+/DotNet/TiedostonLuku/.vs/TiedostonLuku/v16
+/DotNet/TiedostonLuku/TiedostonLuku/bin/Debug
+/DotNet/TiedostonLuku/TiedostonLuku/obj
