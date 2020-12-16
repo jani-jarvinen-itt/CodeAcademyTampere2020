@@ -21,3 +21,5 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/WindowsFormsDemo/.vs/WindowsFormsDemo/v16
 /DotNet/WindowsFormsDemo/WindowsFormsDemo/bin/Debug
 /DotNet/WindowsFormsDemo/WindowsFormsDemo/obj/Debug
+/DotNet/WindowsFormsDemo/VisualBasicLuokkaKirjasto/bin/Debug/netstandard2.0
+/DotNet/WindowsFormsDemo/VisualBasicLuokkaKirjasto/obj

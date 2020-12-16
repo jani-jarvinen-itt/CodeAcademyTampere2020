@@ -95,5 +95,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VisualBasicLuokkaKirjasto\VisualBasicLuokkaKirjasto.vbproj">
+      <Project>{a12a05e2-bc36-438e-a9c9-92be86dded04}</Project>
+      <Name>VisualBasicLuokkaKirjasto</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

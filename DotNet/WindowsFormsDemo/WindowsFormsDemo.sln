@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDemo", "WindowsFormsDemo\WindowsFormsDemo.csproj", "{BC144D69-36F1-4425-90DD-CB9766B9F191}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisualBasicLuokkaKirjasto", "VisualBasicLuokkaKirjasto\VisualBasicLuokkaKirjasto.vbproj", "{A12A05E2-BC36-438E-A9C9-92BE86DDED04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BC144D69-36F1-4425-90DD-CB9766B9F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC144D69-36F1-4425-90DD-CB9766B9F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC144D69-36F1-4425-90DD-CB9766B9F191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12A05E2-BC36-438E-A9C9-92BE86DDED04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12A05E2-BC36-438E-A9C9-92BE86DDED04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12A05E2-BC36-438E-A9C9-92BE86DDED04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12A05E2-BC36-438E-A9C9-92BE86DDED04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
