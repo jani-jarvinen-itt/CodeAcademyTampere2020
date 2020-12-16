@@ -17,3 +17,7 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/HttpSäätiedot/HttpSäätiedot/bin/Debug/netcoreapp3.1
 /DotNet/HttpSäätiedot/HttpSäätiedot/obj
 /DotNet/TiedostonLuku/.vs/TiedostonLuku/DesignTimeBuild
+/DotNet/HttpSäätiedot/.vs/HttpSäätiedot/DesignTimeBuild
+/DotNet/WindowsFormsDemo/.vs/WindowsFormsDemo/v16
+/DotNet/WindowsFormsDemo/WindowsFormsDemo/bin/Debug
+/DotNet/WindowsFormsDemo/WindowsFormsDemo/obj/Debug
