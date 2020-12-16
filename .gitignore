@@ -23,3 +23,7 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/WindowsFormsDemo/WindowsFormsDemo/obj/Debug
 /DotNet/WindowsFormsDemo/VisualBasicLuokkaKirjasto/bin/Debug/netstandard2.0
 /DotNet/WindowsFormsDemo/VisualBasicLuokkaKirjasto/obj
+/DotNet/WindowsFormsDemo/.vs/WindowsFormsDemo/DesignTimeBuild
+/DotNet/WpfDemo/.vs/WpfDemo/v16
+/DotNet/WpfDemo/WpfDemo/bin/Debug
+/DotNet/WpfDemo/WpfDemo/obj/Debug
