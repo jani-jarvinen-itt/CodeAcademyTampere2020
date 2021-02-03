@@ -27,3 +27,9 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/WpfDemo/.vs/WpfDemo/v16
 /DotNet/WpfDemo/WpfDemo/bin/Debug
 /DotNet/WpfDemo/WpfDemo/obj/Debug
+/DotNet/AspNetWebApiDemo/.vs/AspNetWebApiDemo
+/DotNet/AspNetWebApiDemo/AspNetWebApiDemo/bin/Debug/net5.0
+/DotNet/AspNetWebApiDemo/AspNetWebApiDemo/obj
+/DotNet/DockerDemo/.vs/DockerDemo/v16
+/DotNet/DockerDemo/DockerDemo/bin/Debug/net5.0
+/DotNet/DockerDemo/DockerDemo/obj
