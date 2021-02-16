@@ -33,5 +33,15 @@ namespace AspNetMvcDemo.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Sivu1()
+        {
+            return View();
+        }
+
+        public IActionResult Sivu2()
+        {
+            return View();
+        }
     }
 }
