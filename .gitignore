@@ -33,3 +33,7 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/DockerDemo/.vs/DockerDemo/v16
 /DotNet/DockerDemo/DockerDemo/bin/Debug/net5.0
 /DotNet/DockerDemo/DockerDemo/obj
+/DotNet/AspNetMvcDemo/.vs/AspNetMvcDemo
+/DotNet/AspNetMvcDemo/.vscode
+/DotNet/AspNetMvcDemo/bin/Debug/net5.0
+/DotNet/AspNetMvcDemo/obj
