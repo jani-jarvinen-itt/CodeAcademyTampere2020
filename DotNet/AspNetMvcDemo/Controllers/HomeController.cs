@@ -43,5 +43,10 @@ namespace AspNetMvcDemo.Controllers
         {
             return View();
         }
+
+        public IActionResult Laskin()
+        {
+            return View();
+        }
     }
 }
