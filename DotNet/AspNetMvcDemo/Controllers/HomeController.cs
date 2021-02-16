@@ -48,5 +48,13 @@ namespace AspNetMvcDemo.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Laskin(int luku1, int luku2)
+        {
+            int summa = luku1 + luku2;
+
+            return View();
+        }
     }
 }
