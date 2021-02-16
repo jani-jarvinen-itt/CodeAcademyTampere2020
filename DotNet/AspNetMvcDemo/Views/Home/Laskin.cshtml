@@ -12,3 +12,10 @@
 
     <button type="submit" class="btn btn-primary mb-2">Laske</button>
 </form>
+
+@if (ViewBag.LaskennanTulos != null)
+{
+    <div class="alert alert-primary w-25 mt-3" role="alert">
+        Summa on: @ViewBag.LaskennanTulos
+    </div>
+}

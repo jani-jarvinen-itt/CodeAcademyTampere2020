@@ -53,6 +53,7 @@ namespace AspNetMvcDemo.Controllers
         public IActionResult Laskin(int luku1, int luku2)
         {
             int summa = luku1 + luku2;
+            ViewBag.LaskennanTulos = summa;
 
             return View();
         }
