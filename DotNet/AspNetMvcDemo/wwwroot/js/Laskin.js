@@ -13,8 +13,11 @@
         body: null,
     })
     .then(response => response.json())
-    .then(data => {
-        console.log("Tulos: ", data);
+    .then(tulos => {
+        console.log("Tulos: ", tulos);
+
+        $("#laskennanTulos").text(tulos);
+        $("#tulosAlue").css("display", "block");
     });
     console.log("HTTP-pyyntö lähetetty.");
 });
