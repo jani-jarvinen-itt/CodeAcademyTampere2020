@@ -38,3 +38,6 @@ DotNet/OlioOhjelmointi/.vscode/**
 /DotNet/AspNetMvcDemo/bin/Debug/net5.0
 /DotNet/AspNetMvcDemo/obj
 /DotNet/AspNetMvcDemo/AspNetMvcDemo.csproj.user
+/DotNet/EntityFrameworkDemo/.vscode
+/DotNet/EntityFrameworkDemo/bin/Debug/net5.0
+/DotNet/EntityFrameworkDemo/obj
