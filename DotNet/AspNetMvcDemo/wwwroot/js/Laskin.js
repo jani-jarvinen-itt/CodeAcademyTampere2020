@@ -4,7 +4,7 @@
     const luku2 = $("#luku2").val();
     console.log("Syötetyt luvut: " + luku1 + " ja " + luku2 + ".");
 
-    const url = "/api/laske/summa/" + luku1 + "/" + luku2;
+    const url = "/api/laskin/summa/" + luku1 + "/" + luku2;
     fetch(url, {
         method: "POST",
         headers: {
